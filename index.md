@@ -9,4 +9,4 @@ Software I've created includes:
 - [Paper-io for Sega Genesis](https://github.com/TomAwezome/paper-io-genesis): Paper-io 1 Demake for Sega Genesis / Sega Mega Drive written in C using SGDK and gendev. 
 - [DWM-time](https://github.com/TomAwezome/dwm-time): Simple Python program to update the DWM title bar with the current date and time.
 
-Thanks for taking the time to read my GitHub profile. I hope you have a great day.
+Thanks for taking the time to read about my contributions on GitHub. I hope you have a great day.
